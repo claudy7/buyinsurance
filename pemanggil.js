@@ -25,7 +25,7 @@ if(x=="1"){xxx="/2018/10/how-much-life-insurance.html"}
 if(x=="2"){xxx="/2018/10/i-need-life-insurance.html"}
 if(x=="3"){xxx="/2018/10/everything-you-need-to-know-about-life.html"}
 if(x=="4"){xxx="/2018/10/how-to-apply-for-life-insurance-policy.html"}
-if(x=="5"){xxx="2018/10/how-to-buy-life-insurance-easy-way.html"}a_to_ve[i].href="https://buyinsurancelife.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2018/10/how-to-buy-life-insurance-easy-way.html"}a_to_ve[i].href="https://buyinsurancelife.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
